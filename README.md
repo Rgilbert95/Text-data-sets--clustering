@@ -8,10 +8,10 @@ a.- Centroids of the clusters
 b.- Decision boundary for 2 different classes
 
 
-A.Centroids of the clusters
+A. Centroids of the clusters
 In this exercise, the k-means algorithm has been implemented
 in order to exemplify the cluster selection and show the centroids
-computation. First a dataset has been obtained regarding
+computation. First, a dataset has been obtained regarding
 ”News Health”.
 
 1.- Data acquisition
