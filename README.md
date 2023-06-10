@@ -28,7 +28,7 @@ Figure 1: Initial centroids
 Figure 2: Centroids after some iterations
 
 
-B.Boundary between different classes
+B. Boundary between different classes
 
 The classification problem is taken by considering a dataset that contains SMS messages,
 either as spam or ham (not spam), and the Naive Bayes algorithm
